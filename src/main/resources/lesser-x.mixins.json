@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "dev.optimistic.lesserx.mixin",
+  "compatibilityLevel": "JAVA_${java_version}",
+  "mixins": [
+    "ItemStackMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
